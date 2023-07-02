@@ -1,10 +1,7 @@
 {
-  "name": "material-kit-react",
-  "version": "3.0.0",
-  "author": "Devias",
-  "licence": "MIT",
-  "homepage": "https://devias.io",
-  "private": false,
+  "name": "price-radar",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "dev": "next",
     "build": "next build",
